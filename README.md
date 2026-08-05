@@ -71,6 +71,11 @@
   <!-- Live GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theadityasarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
+  <br/><br/>
+
+  ### 🐍 Contribution Graph Animation
+  <img src="https://raw.githubusercontent.com/theadityasarkar/theadityasarkar/output/snake-purple.svg" alt="Snake Animation" />
+
 </div>
 
 ---
