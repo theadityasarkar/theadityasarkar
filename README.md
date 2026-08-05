@@ -4,7 +4,7 @@
   
   <!-- Continuous Live Typing Motion Effect -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+Aspirant;3rd+Year+ECE+%40+NIT+Srinagar+(2028);DSA+%26+Competitive+Programming;Full-Stack+%26+AI%2FML+Developer;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+Aspirant;3rd+Year+ECE+%40+NIT+Srinagar+(2028);DSA+%26+Competitive+Programming;Full-Stack+%26+AI%2FML+Developer;Building+Scalable+Software+Solutions" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -63,13 +63,13 @@
 
   ### 🐙 Live GitHub Activity & Language Stats
   <!-- Live Auto-Updating GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=theadityasarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theadityasarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theadityasarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&font_family=poppins" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theadityasarkar&layout=compact&theme=tokyonight&hide_border=true&font_family=poppins" alt="Top Languages" height="180" />
 
   <br/><br/>
 
   <!-- Live GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theadityasarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theadityasarkar&theme=tokyonight&hide_border=true&font=poppins" alt="GitHub Streak" height="180" />
 
 </div>
 
