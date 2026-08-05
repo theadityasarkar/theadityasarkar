@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Aditya Sarkar</h1>
+  <h1>Hello! 👋 I'm Aditya Sarkar</h1>
   
   <!-- Continuous Live Typing Motion Effect -->
   <a href="https://readme-typing-svg.demolab.com">
