@@ -49,26 +49,11 @@
 
 ---
 
-## 📈 Auto-Updating Analytics & Coding Metrics
+## 🔥 Live GitHub Activity & Streak
 
 <div align="center">
 
-  ### 🧩 Live LeetCode Stats
-  <!-- Live Auto-Updating LeetCode Card -->
-  <a href="https://leetcode.com/u/theadityasarkar/">
-    <img src="https://leetcard.jacoblin.cool/theadityasarkar?theme=dark&font=poppins" alt="Aditya's LeetCode Stats" height="190" />
-  </a>
-
-  <br/><br/>
-
-  ### 🐙 Live GitHub Activity & Language Stats
-  <!-- Live Auto-Updating GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theadityasarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theadityasarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-
-  <br/><br/>
-
-  <!-- Live GitHub Streak Card -->
+  <!-- Live Auto-Updating GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=theadityasarkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
 </div>
