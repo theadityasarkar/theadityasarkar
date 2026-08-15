@@ -61,12 +61,12 @@
 
 ## 🚀 Featured Projects
 
-> *Check out some of my core repositories below:*
+> *Check out some of my core projects & live deployments below:*
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| ⚡ **Full-Stack Application** | *Web application built with clean architecture and modern UX.* | `React` `Node.js` `Express` | [Code 🔗](https://github.com/theadityasarkar) |
-| 🤖 **AI / ML Project** | *Machine learning model / Data science pipeline for predictive analysis.* | `Python` `Pandas` `Scikit-Learn` | [Code 🔗](https://github.com/theadityasarkar) |
+| 🤖 **AI Skill Gap Analyzer** | *AI-powered candidate platform for resume compatibility scoring & skill gap analysis.* | `Next.js` `React` `Tailwind` `Gemini AI` | [Live Demo 🌐](https://skill-gap-analysis-lac.vercel.app/) |
+| 🛡️ **Anti-Ragging Support Portal** | *Campus safety & incident reporting platform for freshers at NIT Srinagar.* | `HTML5` `CSS3` `JavaScript` `EmailJS` | [Live Demo 🌐](https://antiragging-nitsri.netlify.app/) |
 | 🧩 **DSA Solutions Repository** | *Comprehensive, well-documented solutions to LeetCode & algorithmic problems.* | `C++` `Python` `Algorithms` | [Code 🔗](https://github.com/theadityasarkar) |
 
 ---
