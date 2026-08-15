@@ -49,6 +49,16 @@
 
 ---
 
+## 🐍 Contribution Graph Animation
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/theadityasarkar/theadityasarkar/output/snake-purple.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 > *Check out some of my core repositories below:*
